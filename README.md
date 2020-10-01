@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ronaldo Trejo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A student on the way to be a software developer (web full-stack)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maronte" alt="maronte" /> </p>
 
-- 🔭 I’m currently working on **ERP open source for a baber shop**
+- 🔭 I’m currently working on **ERP open source for a babershop**
 
 - 🌱 I’m currently learning **Angular, Spring**
 
