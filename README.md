@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **ERP open source for a babershop**
 
-- 🌱 I’m currently learning **Angular, Spring**
+- 🌱 I’m currently learning **Angular, Web Development**
 
-- 👯 I’m looking to collaborate on **java community**
+- 👯 I’m looking to collaborate on **Small open source proyects with learning objetive**
 
 - 🤝 I’m looking for help with **ERP open source for a baber shop**
 
-- 👨‍💻 All of my projects are available at [this profile](this profile)
+- 👨‍💻 All of my projects are available at this profile
 
-- 💬 Ask me about **Java Basics, Spring Basics, HTML-CSS-JS**
+- 💬 Ask me about **Java, HTML-CSS-JS, Laravel**
 
 - 📫 How to reach me **ma.ronaldotrejo@gmail.com**
 
