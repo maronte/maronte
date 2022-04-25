@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **backend development with Express.js.**
 
-- 🌱 I’m currently learning **Vue, Nest.js and Python.**
+- 🌱 I’m currently learning **React, and Nest.js**
 
 - 🤝 I’m looking for help with **functional programing.**
 
