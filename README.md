@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maronte" alt="maronte" /></a> </p>
 
-- 🔭 I’m currently working on **backend development with Express.js.**
+- 🔭 I’m currently working on **backend development with TS, Nest.js and Graphql**
 
-- 🌱 I’m currently learning **React, and Nest.js**
-
-- 🤝 I’m looking for help with **functional programing.**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at this profile.
 
-- 💬 Ask me about **Laravel and Vanilla JS.**
+- 💬 Ask me about **Backend development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
